@@ -1,3 +1,5 @@
+# Lambda is an anonymous function
+
 # One parameter
 mysquare = lambda x: x * x
 print(mysquare(5))
